@@ -1,5 +1,5 @@
 import "./NotFound.css"
-import notFound from "../../assets/svg/404.svg"
+import notFound from "../../../public/404.svg"
 
 const NotFound = () => {
   return (
